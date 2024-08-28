@@ -3,7 +3,7 @@
 Experience:
 
 <p>Full Stack Intern @ TekFynder</p>
-<p>Data Analyst @ IBM</p>
+<p>Software Developer @ IBM</p>
 <p>Java Intern @ Aspire Vision Tech</p>
 
 
