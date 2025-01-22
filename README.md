@@ -2,9 +2,9 @@
 
 Experience:
 
-<p>Full Stack Intern @ TekFynder</p>
-<p>Software Developer @ IBM</p>
-<p>Java Intern @ Aspire Vision Tech</p>
+<p>Software Developer (Quality Assurance) @ UPS</p>
+<p>Software Developer (Quality Assurance) @ IBM</p>
+<p>Quality Assurance Intern @ Aspire Vision Tech</p>
 
 
 Education:
