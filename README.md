@@ -2,7 +2,8 @@
 
 Experience:
 
-<p>Software Developer (Quality Assurance) @ UPS</p>
+<p>Quality Assurance Engineer @ Furniture.com</p>
+<p>Software Developer (Quality Assurance) @ Tek Fynder</p>
 <p>Software Developer (Quality Assurance) @ IBM</p>
 <p>Quality Assurance Intern @ Aspire Vision Tech</p>
 
